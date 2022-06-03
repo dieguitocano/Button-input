@@ -34,6 +34,7 @@ input {
   border: none;
   text-align: initial;
   box-shadow: 2px 8px grey ;
+  position: relative;
   
 }
 
